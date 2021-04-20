@@ -1,4 +1,4 @@
 # hello-world
 test repository
 
-i love sunshine and going for walks
+i LOVE sunshine and going for walks!
